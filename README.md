@@ -1,5 +1,5 @@
 
-# Individual Household Electric Power Consumption — **Versão Leve (2007)**
+# Individual Household Electric Power Consumption — **(2007)**
 
 Este repositório contém a solução dos **20 exercícios** usando apenas o **ano de 2007** do dataset
 *Individual Household Electric Power Consumption* (UCI). Essa redução torna o projeto leve e adequado para o GitHub.
